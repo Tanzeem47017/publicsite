@@ -41,3 +41,10 @@ ul {
     display:  block;
   }
   
+  @font-face {
+    font-family: fonting;
+    src: url(DancingScript-VariableFont_wght.ttf);
+  }
+  #merasonashehr{
+    font-family: "fonting";
+  }
